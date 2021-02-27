@@ -6,9 +6,9 @@ This page contains detailed tutorials on different data structures (DS) with top
 
 ## Topics:
 
-Array https://en.m.wikipedia.org/wiki/Array_data_structure
+Arrayhttps://en.m.wikipedia.org/wiki/Array_data_structure
 
-Linked List https://en.m.wikipedia.org/wiki/Linked_list
+Linked Listhttps://en.m.wikipedia.org/wiki/Linked_list
 
 Stack
 
