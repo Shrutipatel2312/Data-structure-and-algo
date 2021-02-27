@@ -7,14 +7,26 @@ This page contains detailed tutorials on different data structures (DS) with top
 Topics:
 
 Array
+
 Linked List
+
 Stack
+
 Queue
+
 Binary Tree
+
 Binary Search Tree
+
 Heap
+
 Hashing
+
 Graph
+
 Matrix
+
 Misc
+
 Advanced Data Structure
+
